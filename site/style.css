@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	background-color: #D0D3D4;
 	font-size: 110%;
@@ -95,4 +96,103 @@ footer li{
 	padding: 40px solid #2C3E50;
 	width: 500px;
 	box-sizing: border-box;
+=======
+body{
+	background-color: #D0D3D4;
+	font-size: 110%;
+
+}
+#section1{
+	width: 500px;
+	height: 500px;
+	background-color: #DAF7A6;
+	border:10px solid black;
+}
+p{
+	margin-bottom:10px;
+	float: left;
+	margin: 10px;
+}
+#p1{
+	width: 50%;
+	height: 200px;
+	background-color: #6FB094;
+	overflow: auto;
+}
+#p2{
+	width: 100px;
+	height: 100px;
+	background-color: #9DA2CA;
+	float: right;
+}
+#p3{
+	width: 100px;
+	height: 100px;
+	background-color: #00FFFF;
+	clear:left;
+}
+#p4{
+	width: 100px;
+	height: 100px;
+	background-color: #008080;
+	float: right;
+}
+#p5, #p6{
+	float:left;
+	width: 45%;
+	float: left;
+
+}
+#p5{
+	
+	padding-left: 10px;
+	margin-right: 20px
+}
+#p6{
+	
+	padding-left: 10px;
+	margin-right: 0px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+div{
+	clear: left;
+
+}
+footer li{
+			list-style: none;
+			margin-bottom: 2px;
+		}
+		a:link, a:visited{
+			text-decoration: none;
+			margin-bottom: 1px;
+			display: block;
+			width: 200px;
+			border: 1px solid black;
+			text-align: center;
+			color: grey;
+			font-weight: 800;
+		}
+		a:hover, a:active{
+			background-color:black;
+			color:white;
+		}
+		h1{
+			color: #008080;
+			text-decoration: none;
+		}
+	}
+#section{
+	background-color: green;
+	clear: right;
+}
+#p{
+	background-color: orange;
+	margin: 40px;
+	border: 20px solid black;
+	padding: 40px solid #2C3E50;
+	width: 500px;
+	box-sizing: border-box;
+>>>>>>> 2e0e5e6f932ccef57ec9200a904e9365c5f462f6
 }
